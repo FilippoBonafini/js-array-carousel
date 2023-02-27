@@ -19,8 +19,8 @@
 - Eliminamo gli elementi HTML all'interno del container 
 - Passiamo a js
 - Creiamo un array che contenga i nomi e le estensioni delle immagini
-- Grazie al ``` for ``` creiamo una struttura html contente le immagini
-- creiamo una classe css ``` .show ``` che faccia mostrare le immagini che di default sono 'nascoste'
+- Grazie al ```javascript for ``` creiamo una struttura html contente le immagini
+- creiamo una classe css ```javascript .show ``` che faccia mostrare le immagini che di default sono 'nascoste'
 
 -----------------------
 
@@ -28,7 +28,7 @@
 #### Al click dell’utente sulle frecce, il programma cambierà l’immagine attiva, che quindi verrà visualizzata al posto della precedente.
 
 - Creiamoci  variabili contenenti i bottoni 'next' e 'previous'
-- Creiamoci una variabile ``` let ``` contente il contatore delle slide
+- Creiamoci una variabile ```javascript let ``` contente il contatore delle slide
 - Al click sul bottone 'next' il contatore aumenterà di 1, la classe show viene aggiunta all'immagine successiva e tolta a quella indicata nel contatore.
 - Al click sul bottone 'previous' il contatore diminuirà di 1, la classe show viene aggiunta all'immagine precedente e tolta a quella indicata nel contatore.
 
