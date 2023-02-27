@@ -28,7 +28,7 @@ body{
     border-radius: 40px;
 }
 
-.left, .right{
+.next, .prev{
     position: absolute;
     right: 50%;
     display: flex;
@@ -43,11 +43,11 @@ body{
     border-radius: 50px;
 }
 
-.left{
+.next{
     top: -120px;
 }
 
-.right{
+.prev{
   bottom: -120px;
 }
 
